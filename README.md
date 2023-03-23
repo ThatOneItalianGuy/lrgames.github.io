@@ -1,2 +1,5 @@
-# lrgames.github.io
-Free games on the web
+<!DOCTYPE html>
+<head>
+  <title>LR Games</title>
+ <head>
+<body>
